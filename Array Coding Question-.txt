@@ -1,0 +1,25 @@
+Array Coding Question:-
+----------------------------------------
+1)Find the minimum and maximum element in an array.
+2)Write a program to reverse the array.
+3)Sort the array of 0s, 1s, and 2s.
+4)Find dup.licates in an array and remove duplicate.
+5)Find the factorial of a large number.
+6)
+-----------------------------------------------------------------------------
+TOP-50 Coding Question for interview.
+---------------------------------------------
+1)Write a code to reverse a number.
+2)Write the code to find the Fibonacci series upto the nth term.
+3)Checking for prime number.
+4)Write code of Greatest Common Divisor.
+5)Interger and String Palindrome.
+6)factorial Number.
+7)Write code of  Perfect number.
+8) Write code to Check if two strings are Anagram or not.
+9) Write code to check if two strings match where one string contains wildcard characters.
+10)Write a code for bubble sort.
+11)How is the merge sort algorithm implemented?.
+12)Write to code to check whether a given year is leap year or not.
+13)Write a program to find the sum of Natural Numbers using Recursion.
+14)
