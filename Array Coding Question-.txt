@@ -23,3 +23,16 @@ TOP-50 Coding Question for interview.
 12)Write to code to check whether a given year is leap year or not.
 13)Write a program to find the sum of Natural Numbers using Recursion.
 14)
+
+---------------------------------------------------------
+String:-
+---------------
+1)Reverse String
+2)Palindrome Number
+3)find out non repeating element
+4)Remove duplicate char
+5)Reverse word
+6)Reverse Each Word 
+7)find out vowel & Const
+8)count number of character
+9)
