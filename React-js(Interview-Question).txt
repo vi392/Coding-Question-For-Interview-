@@ -1,0 +1,29 @@
+1)What is React-js
+2)Founder of React and year
+    1) Jordan Walke, a software engineer at Facebook at(2011).
+3)What are the advantages of using React?
+4)What is Virtual Dom and Real Dom
+5)Difference between Library and Framework
+6)What are the differences between functional and class components?
+7)What are props in React?
+8)Difference React state and props.
+9)What is prop drilling in React?
+10)What is React Hooks? and Explain React Hooks.
+11)What are module Concept.
+12)What is node-js,and how to work node-js.
+13)What is npm
+14)What is Package.
+15)CLI VS GUI.
+16)What is real object and virtual object.
+17)Difference between interpreter and Complier.
+18)What is Components and Types.
+19)What is Dom Routing.
+20)What is the build Command.
+21)Types of Layout
+22)What is Network-api
+     1)fetch-api
+     11)Axios-api
+23)What is server and how to use Service?
+24)What is lazy loading
+25)
+
