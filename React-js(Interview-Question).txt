@@ -25,5 +25,9 @@
      11)Axios-api
 23)What is server and how to use Service?
 24)What is lazy loading
-25)
+25)Difference between Es6 vs Es5
+26)what is higher order componenets 
+27)difference between context-api vs Redux
+28)Types of Layout
+
 
